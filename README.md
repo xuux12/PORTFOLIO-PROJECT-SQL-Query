@@ -47,3 +47,11 @@ Best Sales Month in 2018:
 
 - Branch-specific analysis, especially focusing on payment methods, can guide localized business decisions.
 
+
+  By executing this project, we aim to empower the organization with
+  the knowledge needed to make informed decisions, capitalize on strengths,
+   and address areas of improvement in the sales ecosystem.
+
+       ## By Ali Mohammed
+  All Best
+
