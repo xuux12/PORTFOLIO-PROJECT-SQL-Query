@@ -88,7 +88,7 @@ FROM [Ali ETL].[dbo].[Supermart Grocery Sales - Retail Analytics Dataset]
   order by 3 desc
   -- Answer: This query provides information on the best customers based on quantity.
 
--- Now, let's see which sub-category sells the most in Agu
+-- Now, let's see which sub-category sells the most in March
   SELECT 
 		 distinct
 		 [Sub_Category]
