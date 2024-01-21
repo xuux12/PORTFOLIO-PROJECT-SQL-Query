@@ -14,10 +14,11 @@ The primary objective of this project is to provide comprehensive insights into 
 2. Exploratory Data Analysis (EDA):
    - Perform exploratory data analysis to understand the distribution and characteristics of sales data
    - Identify outliers, missing values, and potential areas of interest for further investigation.
+     
 3.Sales Trends and Patterns:
 
 - Analyze historical sales data to identify trends and patterns over time.
-- Utilize statistical methods and machine learning algorithms to predict future sales trends.
+
 
   ## Summarized Findings and Insights
 
